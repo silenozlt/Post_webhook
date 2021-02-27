@@ -1,6 +1,6 @@
 #!/bin/bash
 
-WEBHOOK_URL="https://hooks.slack.com/services/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"
+WEBHOOK_URL="https://hooks.slack.com/services/"
 var2=50
 aux=10
 
