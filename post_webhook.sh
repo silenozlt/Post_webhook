@@ -4,6 +4,8 @@ WEBHOOK_URL="https://hooks.slack.com/services/"
 var2=50
 aux=10
 
+
+
 PAYLOAD=" { \"text\": \"$var2 Registros na tabela.\" }"
 
 if [ $var2 -gt $aux ];
