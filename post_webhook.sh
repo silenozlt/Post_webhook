@@ -1,4 +1,9 @@
 #!/bin/bash
+#@autor
+
+
+
+
 
 WEBHOOK_URL="https://hooks.slack.com/services/"
 var2=50
